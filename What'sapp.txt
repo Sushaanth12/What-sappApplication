@@ -11,3 +11,5 @@ Video call
 audio call
 
 Emoji
+
+GIF
